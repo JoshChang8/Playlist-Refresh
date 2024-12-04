@@ -63,7 +63,7 @@ It simplifies the process of creating custom deployments while maintaining the a
 
 ### Understanding Compute Requirements
 Through this project, I gained valuable insights into the compute resources required to run AI models effectively. While the API-based approach from Baseten’s Model Library was quick and simple, configuring resources with Truss involved some trial and error.  
-Using Baseten's [Performance Instance Type Reference Documentation](https://docs.baseten.co/performance/instances) was crucial in determining the appropriate setup to ensure optimal performance.
+Using Baseten's [Performance Instance Documentation](https://docs.baseten.co/performance/instances) was crucial in determining the appropriate setup to ensure optimal performance.
 
 ### Debugging and Workflow Challenges
 During the deployment process, I encountered challenges with authentication. Initially, I wasn’t prompted for an API key when running `truss push`, which delayed progress.  
