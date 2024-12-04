@@ -9,6 +9,12 @@ This project highlights my implementation of Baseten's Truss framework to deploy
 
 ---
 
+# Video Demo
+
+[![Watch the demo](https://img.youtube.com/vi/DIaXi27809w/0.jpg)](https://www.youtube.com/watch?v=DIaXi27809w)
+
+---
+
 # Motivation
 After learning about Baseten's internship position for a Forward Deployed Engineer, I was eager to dive deeper into the company and its offerings. As I explored the role, I discovered that a key responsibility would involve working extensively with Baseten's Truss framework to help customers deploy their models effectively. To better understand the role and Baseten's technologies, I decided to undertake a hands-on project using the Truss framework.
 
@@ -68,6 +74,31 @@ This experience underscored the importance of understanding tool-specific workfl
 
 ---
 
+# Results
+
+### Playlist: Serendipity
+**Vibrant collection of upbeat tracks that radiate happiness and spark joy.**
+
+| Playlist Name             | Chromatic Sunshine     | Waves of Wonder       | Sunny Skies and Soothing Sounds |
+|---------------------------|------------------------|-----------------------|----------------------------------|
+| **Cover Album**           | ![Chromatic Sunshine](images/Chomatic-Sunshine.PNG) | ![Waves of Wonder](images/Waves-Of-Wonder.PNG) | ![Sunny Skies and Soothing Sounds](images/Sunny-Skies-And-Soothing-Sounds.PNG) |
+
+### Playlist: Autumn Lately
+**Warm and cozy mix capturing the crisp, nostalgic essence of fall.**
+
+| Playlist Name             | Autumn Symphony        | Seasonal Serenade     | Fall Reverie                   |
+|---------------------------|------------------------|-----------------------|---------------------------------|
+| **Cover Album**           | ![Autumn Symphony](images/Autumn-Symphony.PNG)  | ![Seasonal Serenade](images/Seasonal-Serenade.PNG) | ![Fall Reverie](images/Fall-Reverie.PNG) |
+
+### Playlist: Country Music
+**Country tunes that bring the heart of the countryside to life.**
+
+| Playlist Name             | Cryin' Blues Highway  | Steel Hearts and Snowy Skies | Highroad Heartbreak Highway   |
+|---------------------------|-----------------------|------------------------------|--------------------------------|
+| **Cover Album**           | ![Cryin' Blues Highway](images/Cryin-Highway-Blues.PNG) | ![Steel Hearts and Snowy Skies](images/Steel-Hearts-And-Snowy-Skies.PNG) | ![Highroad Heartbreak Highway](images/Highroad-Heartbreak-Highway.PNG) |
+
+---
+
 # How to Run the Project on Your Local Machine
 
 Follow these steps to set up and run the project on your local machine:
@@ -77,7 +108,6 @@ Clone the GitHub repository to your local machine and install the required Pytho
 
 ```bash
 git clone <repository_url>
-cd <repository_folder>
 pip install -r requirements.txt
 ```
 
