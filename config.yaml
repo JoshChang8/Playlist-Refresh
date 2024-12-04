@@ -1,0 +1,18 @@
+build_commands: []
+environment_variables: {}
+external_package_dirs: []
+model_metadata:
+  example_model_input: {"text": "Tell me a story about a brave cat."}
+model_name: Qwen2.5-3B
+python_version: py310
+requirements:
+  - transformers==4.42.3
+  - torch==2.0.1
+  - sentencepiece==0.1.99 
+resources:
+  accelerator: A10G  # Set to an appropriate GPU type if needed 
+  cpu: "4"           # Adjust based on your workload
+  memory: 16Gi        # Adjust if the model requires more memory
+  use_gpu: true     # Set to true if deploying with GPU
+secrets: {}
+system_packages: []

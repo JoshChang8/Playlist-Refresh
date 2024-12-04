@@ -1,0 +1,5 @@
+truss==0.9.53
+transformers==4.24.0
+spotipy==2.23.0
+streamlit==1.26.0
+pandas==2.0.3

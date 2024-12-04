@@ -1,0 +1,15 @@
+# Configuration file used in Google App Engine to define how the application should be deployed 
+runtime: custom
+env: flex
+
+# Configure automatic scaling for the flexible environment
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 3
+  cpu_utilization:
+    target_utilization: 0.65
+
+# Network configuration
+network:
+  forwarded_ports:
+    - 8080
