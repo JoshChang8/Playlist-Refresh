@@ -1,5 +1,6 @@
-# Playlist-Refresh
- Leveraging Baseten’s fast inference times to use generative AI to enhance a Spotify User’s playlist
+# Playlist Refresh ✨
+> _Leveraging Baseten’s fast inference times to use generative AI to enhance a Spotify User’s playlist._
+
 
  # Introduction
 **Playlist Refresh ✨** is a web app that elevates the way you experience and share your Spotify playlists. By combining the power of generative AI with creative design, this app transforms your playlists with custom names and visually striking cover photos.
