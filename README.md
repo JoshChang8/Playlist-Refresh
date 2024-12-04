@@ -1,7 +1,6 @@
 # Playlist Refresh ✨
 > _Leveraging Baseten’s fast inference times to use generative AI to enhance a Spotify User’s playlist._
 
-
  # Introduction
 **Playlist Refresh ✨** is a web app that elevates the way you experience and share your Spotify playlists. By combining the power of generative AI with creative design, this app transforms your playlists with custom names and visually striking cover photos.
 
@@ -74,23 +73,23 @@ This experience underscored the importance of understanding tool-specific workfl
 
 ---
 
-# Results
+# Playlist Results
 
-### Playlist: Serendipity
+### [Serendipity](https://open.spotify.com/playlist/51mwSPAk0bqVFM4Lz0IXZ1?si=a3ef18a2fde34503)
 **Vibrant collection of upbeat tracks that radiate happiness and spark joy.**
 
 | Playlist Name             | Chromatic Sunshine     | Waves of Wonder       | Sunny Skies and Soothing Sounds |
 |---------------------------|------------------------|-----------------------|----------------------------------|
 | **Cover Album**           | ![Chromatic Sunshine](images/Chomatic-Sunshine.PNG) | ![Waves of Wonder](images/Waves-Of-Wonder.PNG) | ![Sunny Skies and Soothing Sounds](images/Sunny-Skies-And-Soothing-Sounds.PNG) |
 
-### Playlist: Autumn Lately
+### [Autumn Lately](https://open.spotify.com/playlist/4xXOIR9i0Jdd4Sg6ndY9tp?si=62386ae628a8472c)
 **Warm and cozy mix capturing the crisp, nostalgic essence of fall.**
 
 | Playlist Name             | Autumn Symphony        | Seasonal Serenade     | Fall Reverie                   |
 |---------------------------|------------------------|-----------------------|---------------------------------|
 | **Cover Album**           | ![Autumn Symphony](images/Autumn-Symphony.PNG)  | ![Seasonal Serenade](images/Seasonal-Serenade.PNG) | ![Fall Reverie](images/Fall-Reverie.PNG) |
 
-### Playlist: Country Music
+### [Country Music](https://open.spotify.com/playlist/4JSD9T1bQkati2chUc6ewJ?si=1272e70c4dd64816)
 **Country tunes that bring the heart of the countryside to life.**
 
 | Playlist Name             | Cryin' Blues Highway  | Steel Hearts and Snowy Skies | Highroad Heartbreak Highway   |
