@@ -1,7 +1,13 @@
 # Playlist Refresh ✨
 > _Leveraging Baseten’s fast inference times to use generative AI to enhance a Spotify User’s playlist._
 
- # Introduction
+--- 
+
+# Check out the live app [here!](https://playlist-refresh-app.uw.r.appspot.com/)
+
+---
+
+# Introduction
 **Playlist Refresh ✨** is a web app that elevates the way you experience and share your Spotify playlists. By combining the power of generative AI with creative design, this app transforms your playlists with custom names and visually striking cover photos.
 
 This project highlights my implementation of Baseten's Truss framework to deploy custom open-source models on Hugging Face. I also used Baseten's library of open-source models, integrating them into the app through APIs.
