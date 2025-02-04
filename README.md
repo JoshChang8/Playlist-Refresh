@@ -1,8 +1,5 @@
 # Playlist Refresh ✨
 > _Leveraging Baseten’s fast inference times to use generative AI to enhance a Spotify User’s playlist._
-# Check out the live app [here!](https://playlist-refresh-app.uw.r.appspot.com/)
-
----
 
 # Video Demo
 
